@@ -1,2 +1,5 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+ html body #bgimage {
+    background: url('cityscape.jpg');
+}
